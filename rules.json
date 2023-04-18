@@ -1,0 +1,1 @@
+[{"if": "q", "then": "x"}, {"if": "m", "then": "y"}, {"if": ["w", "and", "x"], "then": "g"}, {"if": ["w", "and", "x"], "then": "z"}, {"if": ["a", "and", "b"], "then": "c"}, {"if": ["d", "and", "z"], "then": "e"}, {"if": ["c", "and", "e"], "then": "f"}, {"if": "x", "then": "a"}, {"if": "y", "then": "b"}, {"if": "f", "then": "s"}, {"if": "g", "then": "r"}]
